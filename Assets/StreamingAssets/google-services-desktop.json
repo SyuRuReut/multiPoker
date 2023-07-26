@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871750768554",
+    "project_id": "poker-demo-sample",
+    "storage_bucket": "poker-demo-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871750768554:android:a9ae28e895f326f7d4bdd3",
+        "android_client_info": {
+          "package_name": "com.syuru.poker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871750768554-b64p6530b7auhladqmh60ehscngfnvvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syuru.poker",
+            "certificate_hash": "bd7cd97c9a3f054667124bcbd0e1bf7e30f86d29"
+          }
+        },
+        {
+          "client_id": "871750768554-s0esflpaa9gjpdpdrutm523agremubq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZys6XE5Tsqqwd3TXIKsvtrHn__Da8E_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871750768554-s0esflpaa9gjpdpdrutm523agremubq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
